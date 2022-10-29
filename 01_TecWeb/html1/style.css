@@ -1,0 +1,35 @@
+H1 { color: purple;}
+body { 
+    background-color: rgb(206, 206, 115);
+}
+#menu {color: green;}
+p {
+    color: purple;
+    font-size: 1.25em;
+}
+ol {color: purple}
+.navbar {
+    margin-right: 40px;
+    padding-left: 0px;
+    margin-left: 20px;
+    
+}
+a {color: green;}
+.navbar a {
+    text-decoration: none;
+}
+.navbar li {
+    background-color: white;
+    list-style: none;
+    width: 90px;
+    height: 20px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-right: 30px solid black;
+}
+.navbar a:visited{
+    color: red;
+}
