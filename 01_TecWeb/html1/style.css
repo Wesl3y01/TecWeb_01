@@ -1,6 +1,8 @@
-H1 { color: purple;}
+H1 { color: green;}
 body { 
-    background-color: rgb(206, 206, 115);
+      background-image: url("gatto.jpg");
+	background-size: cover;
+	
 }
 #menu {color: green;}
 p {
@@ -28,7 +30,7 @@ a {color: green;}
     padding-bottom: 5px;
     padding-left: 8px;
     padding-right: 8px;
-    border-right: 30px solid black;
+    border-right: 30px solid purple;
 }
 .navbar a:visited{
     color: red;
